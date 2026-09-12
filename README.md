@@ -1,6 +1,6 @@
 # SmartTransit: Demand Forecasting & Fleet Optimizer
 
-A portfolio-ready Python project that demonstrates how public-transport operators can use historical demand to forecast passenger volume and recommend route-level bus allocations.
+A Python project that demonstrates how public-transport operators can use historical demand to forecast passenger volume and recommend route-level bus allocations.
 
 ## What it does
 
