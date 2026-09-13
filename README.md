@@ -71,12 +71,6 @@ ceil(predicted_passengers /
 
 This is intentionally a simplified planning model. Real transit scheduling would also consider headways, turnaround time, depot constraints, crew availability, traffic, vehicle types and minimum service requirements.
 
-## Project description
-
-**SmartTransit: Demand Forecasting & Fleet Optimization | Python, Scikit-learn, Streamlit**
-- Built a machine-learning dashboard that forecasts route-level passenger demand and converts predictions into data-driven bus allocation recommendations.
-- Engineered temporal, route and weather features and trained a Random Forest regression model to estimate passenger demand.
-- Developed an optimization layer to identify routes needing additional or fewer buses while maintaining a configurable service-capacity target.
-- Created an interactive Streamlit dashboard for route comparison, demand trends and model evaluation.
+<img width="1612" height="976" alt="ChatGPT Image Sep 13, 2026, 02_11_20 PM" src="https://github.com/user-attachments/assets/09443875-1021-4157-924e-5778a1e20713" />
 
 
