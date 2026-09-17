@@ -3,7 +3,6 @@
 Suggested GitHub repo name:
 `smart-transit-fleet-optimizer`
 
-Suggested resume entry:
 
 **SmartTransit: Demand Forecasting & Fleet Optimization | Python, Scikit-learn, Streamlit**
 - Built an ML dashboard to forecast route-level passenger demand and generate data-driven bus allocation recommendations.
